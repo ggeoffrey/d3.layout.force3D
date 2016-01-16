@@ -1,11 +1,11 @@
 ##d3.layout.force3D with a proper third dimension
 
 Import it to your project after d3.js and replace:
-`d3.layout.force()` by `d3.layout.force3D()`` into your code.
+`d3.layout.force()` with `d3.layout.force3D()` into your code.
 
-The original API is unchanged except for :
+The original API is unchanged **except for**:
  - `size()` that now takes an array of length 3 instead of 2. Default is now `.size([1, 1, 1])` .
- - `force.drag` **is not realy supported** because of the third dimention. You have to implement it yourself with unprojection techniques. The current `minimal-dirty-example.html` demo drag only on the `x` and `y` axes and ignore the `z` axis.
+ - `force.drag` **is not really supported** because of the third dimention. You have to implement it yourself with unprojection techniques. The current `minimal-dirty-example.html` demo drag only on the `x` and `y` axes and ignore the `z` axis.
 
 
 ## Demo
