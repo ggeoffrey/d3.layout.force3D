@@ -14,7 +14,7 @@ The original API is unchanged **except for**:
 Implemented in ClojureScript with the d3.layout.force3D running in
 a distinct webworker.
  
-You can find dirty but working minimal code in the `minimal-dirty-example.html` file.
+You can find dirty but working [minimal code here](http://ggeoffrey.github.io/d3.layout.force3D/).
 
 ###Credits
 
