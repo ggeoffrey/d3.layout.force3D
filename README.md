@@ -16,8 +16,9 @@ a distinct webworker.
  
 You can find dirty but working [minimal code here](http://ggeoffrey.github.io/d3.layout.force3D/).
 
+<!---
 ###Credits
 
 Adapted from the original D3.js code and smart ideas and work from [@kalenedrael](https://github.com/kalenedrael).
 I just extracted it, rewrote it, and exported it as a d3 plugin. So please give him the credits ;)
-
+-->
