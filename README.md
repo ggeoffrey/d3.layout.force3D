@@ -21,5 +21,7 @@ You can find dirty but working [minimal code here](http://ggeoffrey.github.io/d3
 
 ###Credits
 
-Adapted from the original D3.js code and smart ideas and work from [@kalenedrael](https://github.com/kalenedrael).
+Adapted from:
+ - original D3.js code
+ - [@kalenedrael](https://github.com/kalenedrael)' smart ideas and work.
 I just extracted it, rewrote it, and exported it as a d3 plugin. So please give him the credits ;)
