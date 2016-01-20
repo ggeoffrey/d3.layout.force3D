@@ -10,10 +10,12 @@ The original API is unchanged **except for**:
 
 ## Demo
 
-[cljs-gravity](https://github.com/ggeoffrey/cljs-gravity), 
-Implemented in [ClojureScript](http://clojure.org/) with the d3.layout.force3D running in
-a distinct webworker.
+[cljs-gravity](https://github.com/ggeoffrey/cljs-gravity), implemented in [ClojureScript](http://clojure.org/) with d3.layout.force3D running in a distinct webworker.
  
+
+
+
+### Example
 You can find dirty but working [minimal code here](http://ggeoffrey.github.io/d3.layout.force3D/).
 
 
